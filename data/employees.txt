@@ -1,0 +1,4 @@
+Alice Johnson – Salary: £70,000 – Department: Finance  
+Bob Smith – Salary: £55,000 – Department: IT  
+Charlie Brown – Salary: £80,000 – Department: HR  
+Diana Prince – Salary: £95,000 – Department: Executive 
